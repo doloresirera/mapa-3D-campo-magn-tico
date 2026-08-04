@@ -15,6 +15,11 @@ magnitude, the code generates:
 Both are exported as interactive HTML files that open in the browser and
 allow rotating, zooming, and inspecting values.
 
+## Demostraciones interactivas
+
+- [Volumen 3D interpolado](https://doloresirera.github.io/mapa-3D-campo-magnetico/ejemplo_campo_magnetico.html)
+- [Mediciones reales (scatter 3D)](https://doloresirera.github.io/mapa-3D-campo-magnetico/ejemplo_puntos_mediciones.html)
+
 ## Context
 
 Characterization of the ambient magnetic field in a paleomagnetism
