@@ -44,9 +44,9 @@ affect the result.
 ## Usage
 
 1. Install dependencies:
-
+```
    pip install -r requirements.txt
-
+```
 2. Place the CSV in the same folder as the notebook and adjust the name
    in the `pd.read_csv(...)` line.
 3. Run the cells in order.
