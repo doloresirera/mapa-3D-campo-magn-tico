@@ -15,6 +15,11 @@ de la magnitud del campo, el código genera:
 Ambos se exportan como archivos HTML interactivos que se abren en el
 navegador y permiten rotar, hacer zoom y consultar valores.
 
+## Demostraciones interactivas
+
+- [Mediciones reales (scatter 3D)](https://doloresirera.github.io/mapa-3D-campo-magnetico/ejemplo_puntos_mediciones.html)
+- [Volumen 3D interpolado](https://doloresirera.github.io/mapa-3D-campo-magnetico/ejemplo_campo_magnetico.html)
+
 ## Contexto
 
 Caracterización del campo magnético ambiente en un laboratorio de
