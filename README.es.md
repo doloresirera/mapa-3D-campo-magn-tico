@@ -9,6 +9,9 @@ de la magnitud del campo, el código genera:
 1. Un **scatter 3D** de las mediciones reales (sin interpolar).
 2. Un **volumen 3D interpolado** de la intensidad.
 
+![Volumen 3D mediciones](mapainteractivomediciones.png)
+![Volumen 3D interpolado](mapainteractivointerpolacion.png)
+
 Ambos se exportan como archivos HTML interactivos que se abren en el
 navegador y permiten rotar, hacer zoom y consultar valores.
 
