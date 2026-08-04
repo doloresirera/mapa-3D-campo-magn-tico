@@ -44,9 +44,9 @@ cada medición no afecta el resultado.
 ## Uso
 
 1. Instalar dependencias:
-
+```
    pip install -r requirements.txt
-
+```
 2. Colocar el CSV en la misma carpeta que el notebook y ajustar el
    nombre en la línea de `pd.read_csv(...)`.
 3. Ejecutar las celdas en orden.
