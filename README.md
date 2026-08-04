@@ -9,6 +9,9 @@ magnitude, the code generates:
 1. A **3D scatter** of the raw measurements (no interpolation).
 2. An **interpolated 3D volume** of the intensity.
 
+![Volumen 3D mediciones](mapainteractivomediciones.png)
+![Volumen 3D interpolado](mapainteractivointerpolacion.png)
+
 Both are exported as interactive HTML files that open in the browser and
 allow rotating, zooming, and inspecting values.
 
